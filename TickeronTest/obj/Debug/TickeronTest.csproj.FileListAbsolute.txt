@@ -1,0 +1,6 @@
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\bin\Debug\TickeronTest.exe.config
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\bin\Debug\TickeronTest.exe
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\bin\Debug\TickeronTest.pdb
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\obj\Debug\TickeronTest.csprojResolveAssemblyReference.cache
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\obj\Debug\TickeronTest.exe
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\obj\Debug\TickeronTest.pdb

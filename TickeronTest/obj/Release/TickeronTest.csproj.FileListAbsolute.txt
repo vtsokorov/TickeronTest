@@ -1,0 +1,5 @@
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\bin\Release\TickeronTest.exe.config
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\bin\Release\TickeronTest.exe
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\bin\Release\TickeronTest.pdb
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\obj\Release\TickeronTest.exe
+C:\Users\Ghostbuster\Desktop\Result\C#\TickeronProject\TickeronTest\TickeronTest\obj\Release\TickeronTest.pdb
